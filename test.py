@@ -1,2 +1,6 @@
-print('Hello Suhel')
-print('new line')
+print('Hi')
+name = input('Enter your name: ')
+if name=='suhel':
+	print('Hello Suhel')
+else:
+	print('Bye')
